@@ -1,0 +1,10 @@
+[submodule "scripts/mpv-reload"]
+	path = scripts/mpv-reload
+	url = https://github.com/4e6/mpv-reload
+[submodule "scripts/thumbfast"]
+	path = scripts/thumbfast
+	url = https://github.com/po5/thumbfast
+[submodule "scripts/thumbfast-osc"]
+	path = scripts/thumbfast-osc
+	url = https://github.com/po5/thumbfast
+	branch = vanilla-osc
